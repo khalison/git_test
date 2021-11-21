@@ -1,0 +1,1 @@
+At this stage i feel pretty confident about using git 
